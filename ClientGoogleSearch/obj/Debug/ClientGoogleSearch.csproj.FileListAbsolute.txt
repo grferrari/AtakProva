@@ -1,0 +1,11 @@
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\bin\Debug\ClientGoogleSearch.exe.config
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\bin\Debug\ClientGoogleSearch.exe
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\bin\Debug\ClientGoogleSearch.pdb
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.csprojAssemblyReference.cache
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.Form1.resources
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.Properties.Resources.resources
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.csproj.GenerateResource.cache
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.csproj.CoreCompileInputs.cache
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.exe
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.pdb
+C:\Users\Ferrari\source\repos\ClientGoogleSearch\ClientGoogleSearch\obj\Debug\ClientGoogleSearch.Links.resources
